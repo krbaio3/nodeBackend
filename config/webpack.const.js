@@ -1,0 +1,4 @@
+
+const variables = {
+  src: 'src'
+}
